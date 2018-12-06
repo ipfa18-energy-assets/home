@@ -167,7 +167,7 @@ class VehicleOwners extends Component {
     return (
       <div>
         <Navbar color="light" light expand="md">
-          <NavbarBrand href="/">Home</NavbarBrand>
+          <NavbarBrand href="/home">Home</NavbarBrand>
           <Nav className="ml-auto" navbar>
             <NavItem>
               <Button color="link" onClick={this.onClickChargeHistory}>Charge History</Button>
