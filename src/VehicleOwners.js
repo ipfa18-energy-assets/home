@@ -90,7 +90,7 @@ class VehicleOwners extends Component {
     this.setState({Withdrawal: <Form onSubmit={this.withdraw}>
                                   <FormGroup>
                                     <div class="App">
-                                      <Label>How much ether (in wei) would you like to withdraw?</Label>
+                                      <Label>How much money (in dollar) would you like to withdraw?</Label>
                                     </div>
                                     <Input onChange={this.captureAmount} type="number" />
                                     <div class="App">

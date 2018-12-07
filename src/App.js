@@ -44,7 +44,7 @@ export default class App extends React.Component {
                 </p>
                 <br className="display-3"></br>
                 <br className="display-1"></br>
-                <h1 className="display-3">Charge. Save. Relax.</h1>
+                <h1 className="display-3">The Future of Energy Credits... is Here!</h1>
                 <p className="lead">The Problem: Electric vehicle users in California are not appropriately compensated for their carbon offsets</p>
                 <hr className="my-2" />
                 <p className="lead">Our Solution: A transparent blockchain platform where credits are issued and can be sold in real time</p>
